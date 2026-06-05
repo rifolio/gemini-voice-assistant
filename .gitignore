@@ -1,0 +1,9 @@
+.worktrees/
+.superpowers/
+.env
+__pycache__/
+
+# Documentation
+docs/
+*.md
+!README.md
